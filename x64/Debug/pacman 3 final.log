@@ -1,0 +1,18 @@
+﻿  board.cpp
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\board.cpp(112,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\board.cpp(200,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  fruit.cpp
+  game_manager.cpp
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\game_manager.cpp(305,46): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\game_manager.cpp(689,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pacman 3 final.cpp
+  random_utils.cpp
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\random_utils.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\random_utils.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\game_manager.cpp(478): warning C4715: 'GameManager::ConvertDirectionToString': not all control paths return a value
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\game_manager.cpp(497): warning C4715: 'GameManager::ConvertStringToDirection': not all control paths return a value
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\board.cpp(167): warning C4715: 'Board::IsThereOnlyOnePacman': not all control paths return a value
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\board.cpp(211): warning C4715: 'Board::IsBoardSizeValid': not all control paths return a value
+C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\pacman 3 final\board.cpp(189): warning C4715: 'Board::IsThereABannerInFile': not all control paths return a value
+  pacman 3 final.vcxproj -> C:\מדמח שנה ב\סמסטר א'\C++\pacman 3 final\x64\Debug\pacman 3 final.exe
